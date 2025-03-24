@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zephyr/static/css/main.7632827b.css",
+    "main.js": "/zephyr/static/js/main.5ea75aa8.js",
+    "index.html": "/zephyr/index.html",
+    "main.7632827b.css.map": "/zephyr/static/css/main.7632827b.css.map",
+    "main.5ea75aa8.js.map": "/zephyr/static/js/main.5ea75aa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7632827b.css",
+    "static/js/main.5ea75aa8.js"
+  ]
+}
